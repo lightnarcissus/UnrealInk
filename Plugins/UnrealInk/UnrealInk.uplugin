@@ -10,7 +10,7 @@
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"EngineVersion": "4.26.0",
+	"EngineVersion": "5.0.3",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"Installed": true,
@@ -21,7 +21,6 @@
 			"LoadingPhase": "Default",
 			"WhitelistPlatforms": [
 				"Win64",
-				"Win32"
 			]
 		},
 		{
@@ -30,7 +29,6 @@
 			"LoadingPhase": "Default",
 			"WhitelistPlatforms": [
 				"Win64",
-				"Win32"
 			]
 		}
 	]
